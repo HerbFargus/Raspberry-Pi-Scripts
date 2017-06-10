@@ -6,7 +6,7 @@ In order to install first make sure you are connected to the internet.
 
 then in the terminal type
 ```
-wget https://raw.githubusercontent.com/HerbFargus/Raspberry-Pi-Wifi-Scripts/master/raspberrypiwifi.sh
+wget https://raw.githubusercontent.com/HerbFargus/Raspberry-Pi-Scripts/master/Wifi/raspberrypiwifi.sh
 ```
 then type the following to make it executable
 ```
